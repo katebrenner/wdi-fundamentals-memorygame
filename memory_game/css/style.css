@@ -3,11 +3,13 @@ body{
 	text-decoration: none;
 	margin: 0;
 }
+
 header{
 	background-color: #F15B31;
 	color: #FFFFFF;
 	padding: 30px 20px;
 }
+
 nav{
 	background-color: #00A6B3;
 	color: #FFFFFF;
@@ -21,7 +23,6 @@ h1, a {
 
 h1{
 	font-family: "Raleway", sans-serif;
-/*	color: #0D2C40; */
 	letter-spacing: 1px;
 	font-weight: 400;
 	font-size: 45px;
@@ -80,9 +81,11 @@ footer{
 	letter-spacing:.08em;
 	font-weight: 500;
 }
+
 .copyright{
 	float: left;
 }
+
 .message{
 	float: right;
 }
@@ -107,9 +110,3 @@ button{
 	font-family: "Raleway", sans-serif;
 	font-size: 14px;
 }
-
-/* Bonus:
-
-Use the nav bar items 
-to scroll down to their respected positions 
-on the page. https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a

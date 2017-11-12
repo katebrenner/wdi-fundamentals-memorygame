@@ -55,5 +55,3 @@ var createBoard = function() {
 }
 
 createBoard();
-
-button.addEventListener('click', reload());
